@@ -1,0 +1,213 @@
+id,agent_id,user_number,agent_number,status,duration,recording_url,transcript,created_at,scheduled_at,total_cost,hangup_by,hangup_reason,,TESTCASES
+9d478ded-3338-43de-ba6d-6db7f93565c9,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,27.4,https://api.bolna.ai/recordings/call/9d478ded-3338-43de-ba6d-6db7f93565c9,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  no i'm not please don't continue
+assistant: No problem at all. Thank you for your time. Have a good day.
+",2026-10-11T11:43:38.698198+00:00,,4.36,Agent,Normal hangup,,TC-12: Customer Refuses Offer — Polite Call Closure
+dcb7b6d1-fa57-4375-b4ec-790fe9060654,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,219.7,https://api.bolna.ai/recordings/call/dcb7b6d1-fa57-4375-b4ec-790fe9060654,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes sammy
+user:  please tell me
+assistant: Thank you for confirming. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yeah  sure
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  fresh fresh no
+assistant:  Thank you for confirming that you are looking for a fresh Loan Against Property. What type of property are you planning to use for the loan, residential, commercial, or industrial?
+user:  industrial
+assistant:  Is the property solely in your name, or is it jointly owned?
+user:  jointly owned
+assistant:  Are the original property documents available for verification?
+user:  yes
+assistant:   How much would you like to borrow against the property?
+user:  don't know maybe something i'm not sure
+assistant:  Could you please provide a rough estimate of the loan amount you are considering? This will help me understand your needs better.
+user:  yeah but i'm not sure as my joint account
+assistant:  Thank you for sharing that. To proceed, could you please give me an approximate amount you would like to borrow against the property? Even a rough estimate will be helpful.
+user:  like around
+assistant:  I understand youâ€™re estimating. Could you please share the approximate amount you have in mind for the loan? For example, is it around ten lakh, twenty lakh, or another figure?
+user:  around eighty lakh
+assistant:  The maximum amount under this programme is seventy-five lakh rupees. Would you be willing to proceed with that amount?
+user:  sure sure
+assistant:   Thank you. Are you salaried or self-employed, and do you receive your income through a bank or only in cash?
+user:  self employed and through bank
+assistant:   What is your approximate current market value of the property?
+user:  nine crores
+assistant:   For how many years would you prefer to take the loan?
+user:  ten
+assistant:  Thank you. Your requested loan amount and tenure are within the permitted limits. 
+
+To confirm, the property is industrial and jointly owned, original documents are available, you want to borrow up to seventy-five lakh rupees, you are self-employed with income received through a bank, the property value is approximately nine crores, and you prefer a loan tenure of ten years. Is that correct?
+user:  yes
+assistant:  Thank you. Your preliminary eligibility check is complete, and you meet the initial criteria. A senior Home Credit loan expert will contact you to discuss the applicable rates and next steps. This is not a final loan approval.
+user:  thank you
+assistant: Thank you for your time. A senior Home Credit loan expert will contact you shortly. Have a good day.
+",2026-10-11T11:38:34.357540+00:00,,41.55,Agent,Normal hangup,,TC-11: Unclear Loan Amount — Clarification and Eligibility Completion
+60e4ed6b-2ad8-4553-b69f-3f10b5a8037e,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,19.7,https://api.bolna.ai/recordings/call/60e4ed6b-2ad8-4553-b69f-3f10b5a8037e,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  no i'm not traveling sharma
+assistant: I apologize for the confusion. Thank you for your time. Have a good day.
+",2026-10-11T11:36:01.884638+00:00,,2.22,Agent,Normal hangup,,TC-10: Wrong Person Answers — Identity Verification
+9455e261-1dd3-4ffe-99ca-64b2eda0cb18,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,58.7,https://api.bolna.ai/recordings/call/9455e261-1dd3-4ffe-99ca-64b2eda0cb18,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes sanvi
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yeah
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  sorry currently i am busy right now can you call me back later
+assistant:  When would be a good time for us to call you back?
+user:  by tomorrow eleven am
+assistant: Thank you. Iâ€™ve noted the callback time you requested for tomorrow at eleven AM. Have a good day.
+",2026-10-11T11:33:38.141997+00:00,,9.28,Agent,Normal hangup,,TC-09: Customer Busy — Callback Time Requested
+8b6f7ce3-71e0-453d-8f55-7f3ed634a911,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,128.5,https://api.bolna.ai/recordings/call/8b6f7ce3-71e0-453d-8f55-7f3ed634a911,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yes i want to check
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  fresh loan
+assistant:  What type of property are you planning to use for the loan, residential, commercial, or industrial?
+user:  residential
+assistant:  Is the property solely in your name, or is it jointly owned?
+user:  jointly
+assistant:   Are the original property documents available for verification?
+user:  yes
+assistant:   How much would you like to borrow against the property?
+user:  sixty five
+assistant:   Thank you. Are you salaried or self-employed, and do you receive your income through a bank or only in cash?
+user:  salad and from bank
+assistant:   Just to confirm, you are salaried and receive your income through a bank, correct?
+user:  yes
+assistant:   What is your approximate current market value of the property?
+user:  twenty five lakhs
+assistant:   For how many years would you prefer to take the loan?
+user:  twenty years
+assistant:  The available tenure range is three to fifteen years. What tenure within that range would work for you?
+user:  no i only want for twenty years
+assistant: I understand, but the available tenure range is three to fifteen years. Since you prefer twenty years and that is outside the permitted range, I'm unable to proceed with the eligibility check. Thank you for your time. Have a good day.
+",2026-10-11T11:30:27.052450+00:00,,24.14,Agent,Normal hangup,,TC-08: Invalid Tenure — Customer Insists on Ineligible Tenure
+be4e4d03-b571-4c98-a36f-3923a5ac6548,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,142.8,https://api.bolna.ai/recordings/call/be4e4d03-b571-4c98-a36f-3923a5ac6548,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant: Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yes
+user:  want to check
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  fresh loan
+assistant:  Thank you for confirming. What type of property are you planning to use for the loanâ€”residential, commercial, or industrial?
+user:  commercial
+assistant:  Is the property solely in your name, or is it jointly owned?
+user:  so lean my name
+assistant:  Just to clarify, is the property owned only by you, or jointly with someone else?
+user:  it's only owned by me
+assistant:  Are the original property documents available for verification?
+user:  yes
+assistant:   How much would you like to borrow against the property?
+user:  ninety five lakhs
+assistant:  The maximum amount under this programme is seventy-five lakh rupees. Would you be willing to proceed with that amount?
+user:  yes
+assistant:   Thank you. Are you salaried or self-employed, and do you receive your income through a bank or only in cash?
+user:  salaried and through bank
+assistant:   What is your approximate current market value of the property?
+user:  one crore
+assistant:   For how many years would you prefer to take the loan?
+user:  ten
+assistant: Thank you. Your preliminary eligibility check is complete, and you meet the initial criteria. A senior Home Credit loan expert will contact you to discuss the applicable rates and next steps. This is not a final loan approval. Have a good day.
+",2026-10-11T11:24:52.657880+00:00,,27.15,Agent,Normal hangup,,TC-07: Loan Amount Exceeds ?75 Lakh — Customer Accepts Maximum Limit
+d431de05-848c-4944-9540-1df90cc829bc,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,82.3,https://api.bolna.ai/recordings/call/d431de05-848c-4944-9540-1df90cc829bc,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you for confirming. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yeah
+assistant: Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you a
+user:  fresh loan fresh loan
+assistant:  Thank you for confirming that you are looking for a fresh Loan Against Property. 
+
+What type of property are you planning to use for the loanâ€”residential, commercial, or industrial?
+user:  industrial
+assistant:  Is the property solely in your name, or is it jointly owned?
+user:  jointly owned
+assistant:  Are the original property documents available for verification?
+user:  yes
+assistant:   How much would you like to borrow against the property?
+user:  ninety five lakhs
+assistant:  The maximum amount under this programme is seventy-five lakh rupees. Would you be willing to proceed with that amount?
+user:  no
+assistant: No problem at all. Thank you for your time. Have a good day.
+",2026-10-11T11:20:48.995528+00:00,,16.37,Agent,Normal hangup,,TC-06: Loan Amount Exceeds ?75 Lakh — Customer Declines Maximum Limit
+eb52e1eb-1dae-41cf-893f-9b462c41bfa3,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,103.5,https://api.bolna.ai/recordings/call/eb52e1eb-1dae-41cf-893f-9b462c41bfa3,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yes i want to check it
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  fresh loan
+assistant:  Thank you for confirming. What type of property are you planning to use for the loanâ€”residential, commercial, or industrial?
+user:  residential
+assistant: Is the property solely in your name, or is it
+user:  yes it is solely in my name
+assistant:  Thank you. Are the original property documents available for verification?
+user:  yes
+assistant:  How much would you like to borrow against the property?
+user:  i
+assistant:  I didn't quite catch that. Could you please tell me how much you would like to borrow against the property?
+user:  thirty lakhs
+assistant:  Are you salaried or self-employed, and do you receive your income through a bank or only in cash?
+user:  self employed and i receive
+assistant: Could you please clarify
+user:  all my income in cash
+assistant: Thank you for sharing that. For this loan, income must be received through a bank account. Based on what you've shared, we can't proceed right now. Thank you for your time, and have a good day.
+",2026-10-11T11:17:50.112052+00:00,,21.18,Agent,Normal hangup,,TC-05: Cash-Only Income — Eligibility Disqualification
+21e8023b-0eb5-43f9-84e0-cf597f58f597,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,107.4,https://api.bolna.ai/recordings/call/21e8023b-0eb5-43f9-84e0-cf597f58f597,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yeah i want to check it
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  fresh loan
+assistant:  Thank you for confirming. What type of property are you planning to use for the loanâ€”residential, commercial, or industrial?
+user:  michelle
+assistant:  I didn't quite catch that. Is the property residential, commercial, industrial, or agricultural?
+user:  kamashil
+assistant:  Could you please clarify whether the property is residential, commercial, industrial, or agricultural?
+user:  commercial
+assistant:  Thank you. Is the property solely in your name, or is it jointly owned?
+user:  sole in my name
+assistant:   Are the original property documents available for verification?
+user:  no
+assistant: Thank you for letting us know. We need the original property documents for this loan, so we can't move forward right now. We appreciate your time and wish you all the best.
+",2026-10-11T11:14:29.124902+00:00,,18.14,Agent,Normal hangup,,TC-04: Original Property Documents Unavailable — Eligibility Disqualification
+ac0196eb-d1c7-4f16-a936-fb2fec740582,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,62.2,https://api.bolna.ai/recordings/call/ac0196eb-d1c7-4f16-a936-fb2fec740582,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yeah i would like to check it
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  it's a fresh loan
+assistant:  Thank you for confirming. What type of property are you planning to use for the loanâ€”residential, commercial, or industrial?
+user:  none of them i have like agricultural
+assistant: Thank you for your time. Unfortunately, agricultural properties aren't part of this loan programme right now. We appreciate your time and wish you all the best.
+",2026-10-11T08:57:41.096881+00:00,,11.65,Agent,Normal hangup,,TC-03: Agricultural Property — Eligibility Disqualification
+d6b34791-d3de-4aba-9a49-f6c872048b81,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,57.9,https://api.bolna.ai/recordings/call/d6b34791-d3de-4aba-9a49-f6c872048b81,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yes
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  i already have a loan against this property
+assistant: Thank you for sharing that. Our loan transfer specialist will contact you shortly to discuss the next steps. Have a good day.
+",2026-10-11T08:49:09.791904+00:00,,8.56,Agent,Normal hangup,,TC-02: Existing Loan — Transfer Specialist Routing
+fee84cea-8395-4d97-8fb6-78ee46ca7da0,83225038-30a9-4e65-a568-bff2b035ea90,,,completed,137.2,https://api.bolna.ai/recordings/call/fee84cea-8395-4d97-8fb6-78ee46ca7da0,"assistant: Hello, my name is Saanvi, and I'm calling on behalf of Home Credit. Am I speaking with Rahul Sharma?
+user:  yes
+assistant:  Thank you for confirming. I'm calling from Home Credit about a preliminary Loan Against Property offer of up to seventy five lakh rupees. Would you like to check whether you may be eligible?
+user:  yes
+assistant:  Before we begin, may I confirm whether you're looking for a fresh Loan Against Property, or do you already have a loan against your property and want to explore a loan transfer or reduce your current EMI?
+user:  fresh loan
+assistant:  Thank you for confirming. What type of property are you planning to use for the loanâ€”residential, commercial, or industrial?
+user:  residential
+assistant:  Is the property solely in your name, or is it jointly owned?
+user:  sorely on my name
+assistant:   Just to confirm, did you mean the property is solely in your name?
+user:  yes
+assistant:   Are the original property documents available for verification?
+user:  yes
+assistant:   How much would you like to borrow against the property?
+user:  twenty five lakhs
+assistant: Are you salaried or self- employed, and do you receive your income through a bank or only in cash?
+user:  salaried and from bank
+assistant:  Thank you. What is your approximate current market value of the property?
+user:  ninety lakhs
+assistant:   For how many years would you prefer to take the loan?
+user:  ten years
+assistant: Thank you. Your preliminary eligibility check is complete, and you meet the initial criteria. A senior Home Credit loan expert will contact you to discuss the applicable rates and next steps. This is not a final loan approval. Thank you for your time. Have a good day.
+",2026-10-11T08:42:37.215333+00:00,,23.18,Agent,Normal hangup,,TC-01: Successful Qualification — All Seven Eligibility Criteria Satisfied
